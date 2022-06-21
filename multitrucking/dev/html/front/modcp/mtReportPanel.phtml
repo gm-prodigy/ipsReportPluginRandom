@@ -1,0 +1,4 @@
+<ips:template parameters="$mtReport" />
+{{if \IPS\Member::loggedIn()->canAccessModule( \IPS\Application\Module::get( 'core', 'modcp' ) )}}
+
+{{endif}}

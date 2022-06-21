@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <app key="multitrucking" version="00001">
+  <word key="__app_multitrucking" js="0">MultiTrucking</word>
+  <word key="multitrucking_mpban_center_header" js="0">Submitted Reports</word>
+  <word key="multitrucking_mpban_node" js="0">Mpban</word>
+  <word key="menutab__multitrucking" js="0">MultiTrucking</word>
+  <word key="menu__multitrucking_mpban" js="0">mpban</word>
+  <word key="menu__multitrucking_mpban_mpban" js="0">mpban</word>
+  <word key="report_page_location" js="0">Chilling on the report page</word>
+  <word key="multitrucking_index_page" js="0">Multitrucking Report</word>
+  <word key="menu__multitrucking_reports" js="0">reports</word>
+  <word key="menu__multitrucking_reports_reports" js="0">reports</word>
+ </app>
+</language>

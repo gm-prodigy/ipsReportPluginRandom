@@ -1,0 +1,8 @@
+<ips:template parameters="$table" />
+{{if \IPS\Member::loggedIn()->canAccessModule( \IPS\Application\Module::get( 'core', 'modcp' ) )}}
+<h2 class="ipsType_sectionHead">Test Report list</h2>
+
+<div class='ipsBox'>
+    {$table|raw}
+</div>
+{{endif}}
